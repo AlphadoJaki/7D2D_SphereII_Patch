@@ -1,0 +1,7 @@
+<Patches>
+  <Patch File="Assembly-CSharp.dll" CreatedBy="SphereII">
+    <OriginalFile SHAHash="E775861E097FE0D9246C7C2EE31774014003309A" />
+    <ModdedFile SHAHash="6A8FE01B09783C988D2F67D5D4435BE71769FF96" />
+    <PatchFile SHAHash="E565A66652C647FB49D2A1CAA97B215FC700A26B" />
+  </Patch>
+</Patches>
